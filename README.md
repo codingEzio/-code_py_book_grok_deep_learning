@@ -1,2 +1,5 @@
-# -code_py_book_grok_deep_learning
-Written by Andrew Trask.
+### Info
+
+| Name | Author | Finished | 
+| ---- | ---- | ---- | 
+| Grokking Deep Learning | Andrew W. Trask | NO | 
